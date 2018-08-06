@@ -16,4 +16,10 @@ class Owl {
   }
 }
 
+
+// hoot() {
+//   console.log(this.name + ' is HOOTing')
+// }
+
+
 export default Owl
