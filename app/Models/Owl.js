@@ -16,7 +16,6 @@ class Owl {
   }
 }
 
-
 // hoot() {
 //   console.log(this.name + ' is HOOTing')
 // }
